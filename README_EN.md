@@ -1,6 +1,10 @@
-# KModule Flutter Demo
+<div align="right">
+  <a href="./README.md" target="_blank">
+    <img src="https://img.shields.io/badge/English-README-blue" alt="中文 README">
+  </a>
+</div>
 
-[中文版本](README.md) | English Version
+# KModule Flutter Demo
 
 This is a KModuleDemo  application developed based on Flutter, used to control  hardware modules, including LED lights, card readers, relays, and buzzers.
 
