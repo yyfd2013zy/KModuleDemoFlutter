@@ -1,6 +1,6 @@
 # KModule Flutter Demo
 
-这是一个基于Flutter开发的串口调试工具应用，用于控制和调试各种硬件模块，包括LED灯、读卡器、继电器和蜂鸣器等。
+这是一个基于Flutter开发的KModuleDemo应用，用于控制和调试硬件模块，包括LED灯、读卡器、继电器和蜂鸣器等。
 
 ## 功能特性
 
@@ -13,7 +13,7 @@
 - 基本颜色控制：红、绿、蓝灯的开关
 - 闪烁控制：红、绿、蓝灯的闪烁模式
 - 跑马灯效果
-- 亮度调节：全亮度、50%亮度
+- 亮度调节：全亮度、设置亮度
 - 自定义颜色：支持RGB颜色选择和控制
 
 ### 读卡器控制
@@ -43,7 +43,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-repo/kmodule_flutter.git
+git clone https://github.com/yyfd2013zy/KModuleDemoFlutter
 cd kmodule_flutter
 ```
 
@@ -62,8 +62,6 @@ flutter run
 ```
 ├── lib/
 │   └── main.dart          # 主应用代码
-├── test/
-│   └── widget_test.dart   # 测试代码
 ├── pubspec.yaml           # 项目配置和依赖
 └── README.md              # 项目说明文档
 ```
@@ -87,11 +85,3 @@ AA [CMD] [LENGTH] [DATA...] 55
 - `LENGTH`：数据长度
 - `DATA`：数据内容
 - `55`：结束符
-
-## 贡献
-
-欢迎提交Issue和Pull Request！
-
-## 许可证
-
-MIT License

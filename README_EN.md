@@ -43,7 +43,7 @@ This is a KModuleDemo  application developed based on Flutter, used to control  
 
 1. Clone the project
 ```bash
-git clone https://github.com/your-repo/kmodule_flutter.git
+git clone https://github.com/yyfd2013zy/KModuleDemoFlutter
 cd kmodule_flutter
 ```
 
