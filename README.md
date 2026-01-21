@@ -1,5 +1,10 @@
+<div align="right">
+  <a href="./README_EN.md" target="_blank">
+    <img src="https://img.shields.io/badge/English-README-blue" alt="English README">
+  </a>
+</div>
+
 # KModule Flutter Demo
-[English Version](README_EN.md) | 中文版本
 
 这是一个基于Flutter开发的KModuleDemo应用，用于控制和调试硬件模块，包括LED灯、读卡器、继电器和蜂鸣器等。
 
