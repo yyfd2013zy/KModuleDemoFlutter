@@ -1,6 +1,6 @@
 <div align="right">
   <a href="./README.md" target="_blank">
-    <img src="https://img.shields.io/badge/English-README-blue" alt="中文 README">
+    <img src="https://img.shields.io/badge/中文-说明文档-green" alt="Chinese README">
   </a>
 </div>
 
