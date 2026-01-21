@@ -63,9 +63,7 @@ class _SerialHomePageState extends State<SerialHomePage> {
     }
     final data = Uint8List.fromList(bytes);
     _serialPort!.write(data);
-    _log(
-      'Send [$label] → ${data.map((e) => e.toRadixString(16).padLeft(2, '0')).join(' ')}',
-    );
+    _log('Send [$label] → ${data.map((e) => e.toRadixString(16).padLeft(2, '0')).join(' ')}', );
   }
 
   // ================= serial =================

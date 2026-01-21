@@ -1,5 +1,7 @@
 # KModule Flutter Demo
 
+[中文版本](README.md) | English Version
+
 This is a KModuleDemo  application developed based on Flutter, used to control  hardware modules, including LED lights, card readers, relays, and buzzers.
 
 ## Features
